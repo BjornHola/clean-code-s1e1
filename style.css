@@ -47,7 +47,7 @@
   width: 60px;
   font-family: Lato, sans-serif;
   cursor: pointer;
-  outline:none;
+  outline: none;
 }
 
 .task-row-wrapper__button:hover {
@@ -68,7 +68,7 @@ label[for="new-task"] {
 
 /*  Lists */
 .task-list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
